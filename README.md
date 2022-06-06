@@ -20,5 +20,3 @@ Your tasks:
 Bonus points:
 
 1. close the modal when the user clicks on the grey background and buttons: Surrender/Let's Fly!
-
-Translated with www.DeepL.com/Translator (free version)
